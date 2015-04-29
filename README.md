@@ -1,7 +1,7 @@
-stm32f4-discovery-keil-freertos-blink
+stm32f4-discovery-keil-freertos-AHRS
 ============================
 
-Project on Keil (MDK-ARM) for stm32f4-discovery + FreeRTOS 7.5.2, blink led
+Project on Keil (MDK-ARM) for stm32f4-discovery + FreeRTOS 7.5.2, blink led and AHRS test.
 Add Low Power mode
 
 For reload .bin to STM32 need when low power mode is On:
